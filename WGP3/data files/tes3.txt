@@ -1,0 +1,13 @@
+This is a C(T) experiment being done in Physics 350.
+It records the decay response of an RC circuit where the capacitance is a strong function of temperature.
+
+Start temp = 3.000000
+Temp step = 3.000000
+End temp = 3.000000
+Num temps = 5
+Num avg cycles = 3
+Num points per meas = 3
+Meas time interval = 3.000000E+0
+
+<data below>
+
